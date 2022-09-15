@@ -13,7 +13,7 @@ a _normal distribution_:
 ```{r}
 samp = rnorm(100)
 samp
-
+getwd()
 ```
 
 # Section 2
